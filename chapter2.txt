@@ -1,0 +1,3 @@
+git merging and branching.. writing these to commit some changes to the new branch we just created
+using the git branch spacehunter command on the command line .. where spacehunter is the name of the new branch we created..
+lmao.. get rekt
