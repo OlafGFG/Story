@@ -1,0 +1,5 @@
+damn.. Windows uses the start command in the command line to open a file.. 
+and the MacOS uses the open command to open a file from the terminal itself..
+
+just found this today.. 19th Feb 07:16 IST
+Lmao
